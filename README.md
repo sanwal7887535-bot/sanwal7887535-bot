@@ -1,81 +1,50 @@
- <!--
-  MUHAMMAD SANWAL | GitHub Profile
-  Visual identity: Graphite / Teal / White
-  No emoji decorations.
--->
-
 <div align="center">
 
-<a href="https://github.com/sanwal7887535-bot">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:101820,50:193B43,100:0D9488&text=MUHAMMAD%20SANWAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%2F%20AI%20AUTOMATION%20%2F%20ERP%20SECURITY&descSize=14&descAlignY=61&animation=fadeIn" alt="Muhammad Sanwal — Software Development, AI Automation and ERP Security"/>
-</a>
+<img src="assets/header.svg" width="100%" alt="Muhammad Sanwal engineering portfolio"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Software+Development;AI+Automation+and+Intelligent+Workflows;Odoo+Enterprise+and+ERP+Security;Building+practical+software+solutions" alt="Animated role descriptions"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=750&lines=Engineering+software+that+solves+real+problems;Building+AI-powered+applications;Developing+and+securing+enterprise+systems;Learning%2C+building%2C+and+improving+every+day" alt="Animated developer introduction"/>
-
-<br/><br/>
-
-<a href="https://github.com/sanwal7887535-bot?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-101820?style=for-the-badge&logo=github&logoColor=14B8A6" alt="Explore projects"/></a>
-<a href="https://www.linkedin.com/in/muhammad-sanwal-4420a02b9/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=14B8A6" alt="LinkedIn profile"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sanwal7887535-bot&style=flat-square&color=0D9488&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/sanwal7887535-bot?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-101820?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore projects"/></a>
+<a href="https://www.linkedin.com/in/muhammad-sanwal-4420a02b9/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101820?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=sanwal7887535-bot&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 01 / PROFILE
+<img src="assets/about.svg" width="100%" alt="Profile section"/>
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### Software Developer in Progress
+## Software Developer | IT Student
 
 I am **Muhammad Sanwal**, a Bachelor of Science in Information Technology student at the University of the Punjab, Lahore, Pakistan.
 
-I am focused on building practical software systems, developing AI-powered applications, and exploring how enterprise platforms can become more secure, automated, and reliable.
-
-My approach combines programming fundamentals with hands-on project development, database design, API integration, and system-level problem solving.
-
-**My engineering interests**
-
-- Software and full-stack development
-- AI applications and workflow automation
-- Odoo Enterprise and ERP customization
-- Security monitoring and compliance engineering
-- Database architecture and management
-- Backend systems and API integration
-
-</td>
-<td width="38%" valign="top">
-
-### Engineering Focus
+I am interested in building useful software, integrating AI into practical workflows, and developing secure enterprise systems. My work and learning span full-stack development, backend systems, databases, Odoo, and security monitoring.
 
 <table>
-<tr><td><b>01</b></td><td>Software Engineering</td></tr>
-<tr><td><b>02</b></td><td>AI & Automation</td></tr>
-<tr><td><b>03</b></td><td>Enterprise Systems</td></tr>
-<tr><td><b>04</b></td><td>ERP Security</td></tr>
-<tr><td><b>05</b></td><td>Database Engineering</td></tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### Engineering interests
 
-**Location**
+- Software and full-stack development
+- AI-powered applications and workflow automation
+- Odoo and enterprise resource planning
+- ERP security monitoring and compliance
+- Database design and management
+- API integration and system design
 
-Lahore, Pakistan
+</td>
+<td width="50%" valign="top">
 
-**Education**
+### Working principles
 
-BS Information Technology
-
-**University**
-
-University of the Punjab
+- Understand the problem before choosing tools.
+- Prefer maintainable and testable implementations.
+- Treat security as part of system design.
+- Use automation to remove repetitive work.
+- Learn by building, testing, and improving.
 
 </td>
 </tr>
@@ -83,134 +52,98 @@ University of the Punjab
 
 ---
 
-## 02 / TECHNOLOGY
+<img src="assets/stack.svg" width="100%" alt="Technology stack section"/>
 
 <div align="center">
 
-### Languages
+### Programming languages
 
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++"/></a>&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java"/></a>&nbsp;
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="46" alt="Python"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="46" alt="JavaScript"/></a>
+<a href="https://isocpp.org/"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="44" alt="C++"/></a>&nbsp;&nbsp;
+<a href="https://www.oracle.com/java/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="44" alt="Java"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="44" alt="Python"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="44" alt="JavaScript"/></a>
 
-### Web Development
+### Web development
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS"/></a>&nbsp;
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React"/></a>&nbsp;
-<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite"/></a>&nbsp;
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="46" alt="Node.js"/></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="Tailwind CSS"/></a>
+<a href="https://html.spec.whatwg.org/"><img src="https://cdn.simpleicons.org/html5/E34F26" width="44" alt="HTML5"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.simpleicons.org/css/1572B6" width="44" alt="CSS3"/></a>&nbsp;&nbsp;
+<a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="44" alt="React"/></a>&nbsp;&nbsp;
+<a href="https://vite.dev/"><img src="https://cdn.simpleicons.org/vite/646CFF" width="44" alt="Vite"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="44" alt="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="44" alt="Tailwind CSS"/></a>
 
-### Databases
+### Databases and tools
 
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="MySQL"/></a>&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="46" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="44" alt="MySQL"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="44" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="44" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="44" alt="VS Code"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="44" alt="Docker"/></a>&nbsp;&nbsp;
+<a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="44" alt="Ubuntu"/></a>
 
-### Development Environment
+### Enterprise and security
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git"/></a>&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="46" alt="Visual Studio Code"/></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="46" alt="Docker"/></a>&nbsp;
-<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="46" alt="Ubuntu"/></a>
-
-### Enterprise & Security
-
-<a href="https://www.odoo.com/"><img src="https://cdn.simpleicons.org/odoo/714B67" width="42" alt="Odoo"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://wazuh.com/"><img src="https://cdn.simpleicons.org/wazuh/3A4A5A" width="42" alt="Wazuh"/></a>
+<a href="https://www.odoo.com/"><img src="https://cdn.simpleicons.org/odoo/714B67" width="48" alt="Odoo"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wazuh.com/"><img src="https://cdn.simpleicons.org/wazuh/3A4A5A" width="48" alt="Wazuh"/></a>
 
 </div>
 
-<sub>Technology logos link to their official websites. The icons represent my development toolkit and learning areas, not a claim of equal expertise across every technology.</sub>
+<sub>Icons link to official technology websites. This list describes my toolkit and areas of study, not equal proficiency in every technology.</sub>
 
 ---
 
-## 03 / FEATURED ENGINEERING PROJECTS
+<img src="assets/projects.svg" width="100%" alt="Selected projects section"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### AEGISERP
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:101820,100:193B43&text=AEGISERP&fontSize=30&fontColor=FFFFFF" width="100%" alt="AegisERP"/>
+**Automated Security Visibility & Compliance Assurance**
 
-**ERP SECURITY & COMPLIANCE**
+A security-focused project targeting Odoo Enterprise and Wazuh integration, designed to improve ERP security visibility and compliance evidence.
 
-</div>
+**Development scope**
 
-### Automated Security Visibility & Compliance Assurance
-
-A security-focused project targeting Odoo Enterprise, with Wazuh integration for monitoring security events and improving security visibility.
-
-**Architecture**
-
-```text
-ODOO ENTERPRISE
-       |
-       v
- SECURITY SENSOR
-       |
-       v
- STRUCTURED EVENTS
-       |
-       v
-      WAZUH
-       |
-       v
-DETECTION & ALERTING
-       |
-       v
-SECURITY VISIBILITY
-```
-
-**Development priorities**
-
-- Capture and structure Odoo login events.
-- Design a security event sensor.
-- Integrate event collection with Wazuh.
-- Develop detection rules and decoders.
-- Explore security hardening and compliance evidence.
+- Odoo login event monitoring
+- Structured security event collection
+- Sensor-to-monitoring integration
+- Wazuh decoders and detection rules
+- Security hardening and compliance evidence
 
 **Technology direction**
 
 `Odoo Enterprise` `Python` `Wazuh` `Linux` `Docker`
 
-<a href="https://github.com/sanwal7887535-bot?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-193B43?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/sanwal7887535-bot?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-101820?style=flat-square&logo=github&logoColor=5EEAD4" alt="Browse repositories"/></a>
 
-<sub>FYP development project. Features are presented as development objectives, not as a claim that every component is already complete.</sub>
+<sub>FYP development project. The list describes current development goals, not a claim that every feature is complete.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### FAURI MADAD
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:193B43,100:0D9488&text=FAURI%20MADAD&fontSize=27&fontColor=FFFFFF" width="100%" alt="Fauri Madad"/>
+**Voice-First Emergency First-Aid Assistant**
 
-**AI APPLICATION / EMERGENCY ASSISTANCE**
+An AI-powered web application that provides structured first-aid guidance through voice and text, with English and Urdu support.
 
-</div>
+**Features**
 
-### Voice-First Emergency First-Aid Assistant
-
-An AI-powered web application designed to provide structured first-aid guidance through voice and text interaction, with support for English and Urdu.
-
-**Core capabilities**
-
-- Voice input and text input.
-- AI-generated emergency guidance.
-- Step-by-step first-aid instructions.
-- Safety warnings and actions to avoid.
-- Rescue 1122 emergency guidance.
-- Text-to-speech support.
+- Voice and text interaction
+- AI-generated emergency guidance
+- Step-by-step first-aid instructions
+- Safety warnings and actions to avoid
+- Rescue 1122 guidance
+- Text-to-speech support
 
 **Technology stack**
 
 `React` `Vite` `Tailwind CSS` `Gemini API` `Express` `Web Speech API` `Vercel`
 
-<a href="https://github.com/sanwal7887535-bot/fauri-madad-ai-emergency-assistant"><img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0D9488?style=flat-square&logo=github&logoColor=white" alt="View Fauri Madad source code"/></a>
+<a href="https://github.com/sanwal7887535-bot/fauri-madad-ai-emergency-assistant"><img src="https://img.shields.io/badge/VIEW_SOURCE-0D9488?style=flat-square&logo=github&logoColor=FFFFFF" alt="View Fauri Madad source"/></a>
 
 </td>
 </tr>
@@ -218,24 +151,24 @@ An AI-powered web application designed to provide structured first-aid guidance 
 
 ---
 
-## 04 / ENGINEERING INTERESTS
+<img src="assets/focus.svg" width="100%" alt="Engineering focus section"/>
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### SOFTWARE
+### Software
 
-- Full-stack applications
-- Backend development
-- REST API integration
+- Full-stack development
+- Backend systems
+- REST APIs
 - Object-oriented programming
 - Data structures and algorithms
 
 </td>
 <td width="25%" valign="top">
 
-### ARTIFICIAL INTELLIGENCE
+### AI and automation
 
 - LLM-powered applications
 - AI API integration
@@ -246,92 +179,82 @@ An AI-powered web application designed to provide structured first-aid guidance 
 </td>
 <td width="25%" valign="top">
 
-### ENTERPRISE SYSTEMS
+### Enterprise
 
 - Odoo development
-- ERP business workflows
+- ERP workflows
 - Module customization
-- System integration
 - Business process automation
+- System integration
 
 </td>
 <td width="25%" valign="top">
 
-### SECURITY
+### Security
 
-- Application security
-- Event monitoring
-- Security alerting
+- Security event monitoring
+- Detection and alerting
 - Compliance evidence
-- System hardening
+- Application hardening
+- Security architecture
 
 </td>
 </tr>
 </table>
 
+### Current engineering direction
+
+```text
+ODOO ENTERPRISE
+      |
+      | Security events
+      v
+AEGISERP SENSOR
+      |
+      | Structured events
+      v
+WAZUH MONITORING
+      |
+      +-------------------+
+      |                   |
+      v                   v
+DETECTION             ALERTING
+      |                   |
+      +---------+---------+
+                |
+                v
+     SECURITY VISIBILITY
+       AND EVIDENCE
+```
+
 ---
 
-## 05 / HOW I APPROACH ENGINEERING
+<img src="assets/stats.svg" width="100%" alt="GitHub analytics section"/>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanwal7887535-bot&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0D9488&icon_color=0D9488" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwal7887535-bot&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0D9488" alt="Most used languages"/>
 
-**01**
+<br/><br/>
 
-### UNDERSTAND
-
-Define the problem and requirements.
-
-</td>
-<td align="center" width="20%">
-
-**02**
-
-### DESIGN
-
-Plan architecture and data flow.
-
-</td>
-<td align="center" width="20%">
-
-**03**
-
-### DEVELOP
-
-Build modular, maintainable software.
-
-</td>
-<td align="center" width="20%">
-
-**04**
-
-### VALIDATE
-
-Test behavior and address weaknesses.
-
-</td>
-<td align="center" width="20%">
-
-**05**
-
-### IMPROVE
-
-Refine, secure, and automate.
-
-</td>
-</tr>
-</table>
+<img width="70%" src="https://streak-stats.demolab.com?user=sanwal7887535-bot&hide_border=true&background=FFFFFF00&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="GitHub contribution streak"/>
 
 </div>
 
-I believe good software should solve a real problem, be understandable by other developers, handle errors responsibly, and improve through testing and iteration.
+---
+
+### Contribution activity
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/sanwal7887535-bot/sanwal7887535-bot/output/github-contribution-grid-snake.svg" alt="Animated contribution graph"/>
+
+</div>
 
 ---
 
-## 06 / EDUCATION & ACHIEVEMENTS
+## Education and achievements
 
 <table>
 <tr>
@@ -342,87 +265,23 @@ I believe good software should solve a real problem, be understandable by other 
 **University of the Punjab**  
 Lahore, Pakistan
 
-`2023 – Present`
+`2023 — Present`
 
-Academic areas of interest:
-
-- Software engineering
-- Database systems
-- Data structures and algorithms
-- Web development
-- Artificial intelligence
-- Computer networks
+Academic interests include software engineering, database systems, data structures, algorithms, web development, and artificial intelligence.
 
 </td>
 <td width="40%" valign="top">
 
-### Academic Highlights
+### Academic highlights
 
-**District-level academic recognition**
-
+**District-level recognition**  
 First position in matriculation at district level.
 
-**Scholarship**
-
+**Scholarship**  
 Fully funded scholarship at Akhuwat Institute.
 
-**Practical development**
-
-Software development, AI applications, and enterprise security project work.
-
-</td>
-</tr>
-</table>
-
----
-
-## 07 / GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanwal7887535-bot&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0D9488&icon_color=0D9488" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwal7887535-bot&layout=compact&hide_border=true&theme=transparent&title_color=0D9488" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sanwal7887535-bot&hide_border=true&background=FFFFFF00&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 08 / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/sanwal7887535-bot/sanwal7887535-bot/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph"/>
-
-</div>
-
----
-
-## 09 / CURRENT DIRECTION
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Building
-
-- Odoo security sensor proof of concept.
-- AI-powered web applications.
-- Practical full-stack projects.
-- Database-driven software systems.
-
-</td>
-<td width="50%" valign="top">
-
-### Improving
-
-- Python and backend engineering.
-- ERP development and customization.
-- Security event monitoring.
-- API integration and deployment.
-- Software design and testing.
+**Practical development**  
+Software development, AI application, and enterprise security project work.
 
 </td>
 </tr>
@@ -430,11 +289,11 @@ Software development, AI applications, and enterprise security project work.
 
 ---
 
+<img src="assets/connect.svg" width="100%" alt="Connect section"/>
+
 <div align="center">
 
-## LET'S CONNECT
-
-I'm interested in software development, AI automation, enterprise applications, and opportunities to learn through meaningful engineering work.
+I am interested in software development, AI automation, enterprise applications, and opportunities to learn through meaningful engineering work.
 
 <br/>
 
@@ -443,14 +302,6 @@ I'm interested in software development, AI automation, enterprise applications, 
 
 <br/><br/>
 
-**MUHAMMAD SANWAL**
-
-<sub>SOFTWARE DEVELOPMENT · AI AUTOMATION · DATABASE MANAGEMENT</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D9488,50:193B43,100:101820" alt="Profile footer"/>
+<img src="assets/footer.svg" width="100%" alt="Animated Build with Purpose footer"/>
 
 </div>
-
-<!-- End of profile README -->

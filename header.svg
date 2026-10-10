@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Sanwal — Engineering Portfolio</title>
+<desc id="desc">Animated graphite and teal engineering banner with technical grid, circuit paths, and a pulsing geometric network.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101820"/><stop offset=".58" stop-color="#0b1117"/><stop offset="1" stop-color="#103b39"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d9488" stop-opacity="0"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#5eead4" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#grid)"/>
+<g fill="none" stroke="#2dd4bf" stroke-width="1.5" stroke-opacity=".48">
+ <path d="M0 58H120L154 92H228"/><path d="M0 82H72L103 113H150"/>
+ <path d="M1200 52H1080L1042 90H990"/><path d="M1200 79H1138L1107 110H1068"/>
+ <path d="M800 0V34L827 61V95"/><path d="M890 330V282L922 250H970"/>
+ <path d="M65 330V287L94 258H140"/>
+</g>
+<g fill="#5eead4" filter="url(#glow)">
+ <circle cx="228" cy="92" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="990" cy="90" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+ <circle cx="827" cy="95" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(930 112)" fill="none" stroke="#5eead4" stroke-width="1.4" stroke-opacity=".75">
+ <rect x="0" y="0" width="150" height="150" rx="2"/>
+ <rect x="17" y="17" width="116" height="116" rx="2" stroke-opacity=".5"/>
+ <path d="M75 0V-25M75 150V175M0 75H-25M150 75H175"/>
+ <path d="M17 17L133 133M133 17L17 133" stroke-opacity=".22"/>
+ <circle cx="75" cy="75" r="34"><animate attributeName="r" values="31;36;31" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="75" cy="75" r="13" fill="#5eead4" fill-opacity=".15"><animate attributeName="fill-opacity" values=".08;.3;.08" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="75" cy="75" r="4" fill="#5eead4" stroke="none"/>
+</g>
+<text x="64" y="77" fill="#5eead4" font-family="monospace" font-size="13" letter-spacing="4">ENGINEERING PORTFOLIO / 2026</text>
+<text x="60" y="151" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1.5">MUHAMMAD</text>
+<text x="60" y="215" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1.5">SANWAL<tspan fill="#5eead4">.</tspan></text>
+<rect x="64" y="239" width="250" height="3" rx="1.5" fill="url(#line)"><animate attributeName="width" values="110;250;180;250" dur="7s" repeatCount="indefinite"/></rect>
+<text x="65" y="272" fill="#d5e2e8" font-family="monospace" font-size="13" letter-spacing="1.5">SOFTWARE DEVELOPMENT / AI AUTOMATION</text>
+<text x="65" y="296" fill="#9fb3bd" font-family="monospace" font-size="13" letter-spacing="1.5">DATABASE SYSTEMS / ERP SECURITY</text>
+<text x="1128" y="304" text-anchor="middle" fill="#5eead4" font-family="monospace" font-size="11">MS / 01</text>
+<rect x="0" y="326" width="1200" height="4" fill="#5eead4"><animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/></rect>
+</svg>
