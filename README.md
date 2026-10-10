@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanwal7887535-bot&bg_color=0A0F1C&color=5EEAD4&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&hide_border=false&radius=18&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<img width="100%" src="assets/activity.svg" alt="Contribution activity graph"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
