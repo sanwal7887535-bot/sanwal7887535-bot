@@ -1,0 +1,25 @@
+MUHAMMAD SANWAL — GITHUB PROFILE README
+==========================================
+
+CONTENTS
+- README.md
+- assets/header.svg (animated custom header)
+- assets/footer.svg (animated custom footer)
+- assets/*.svg (matching section banners)
+
+INSTALL
+1. Open your profile repository: sanwal7887535-bot/sanwal7887535-bot
+2. Upload README.md and the complete assets folder to the repository root.
+3. Commit changes.
+4. The relative paths such as assets/header.svg work because the assets folder is in the same repository.
+
+ANIMATION
+Header and footer use SVG declarative animation. GitHub may handle individual animation features differently across clients.
+The typing animation and stats cards are external services.
+The contribution snake requires a GitHub Actions workflow to generate the output/github-contribution-grid-snake.svg file; until configured, that image may be broken.
+
+NO EMOJIS
+This README and its custom artwork use no emoji decorations. Technology logos are served as SVG brand icons from Simple Icons.
+
+NOTE
+Please review all profile details and update any technologies or achievements that you do not wish to display.
