@@ -28,7 +28,6 @@
  <circle cx="75" cy="75" r="13" fill="#5eead4" fill-opacity=".15"><animate attributeName="fill-opacity" values=".08;.3;.08" dur="2.5s" repeatCount="indefinite"/></circle>
  <circle cx="75" cy="75" r="4" fill="#5eead4" stroke="none"/>
 </g>
-<text x="64" y="77" fill="#5eead4" font-family="monospace" font-size="13" letter-spacing="4">ENGINEERING PORTFOLIO / 2026</text>
 <text x="60" y="151" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1.5">MUHAMMAD</text>
 <text x="60" y="215" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1.5">SANWAL<tspan fill="#5eead4">.</tspan></text>
 <rect x="64" y="239" width="250" height="3" rx="1.5" fill="url(#line)"><animate attributeName="width" values="110;250;180;250" dur="7s" repeatCount="indefinite"/></rect>
