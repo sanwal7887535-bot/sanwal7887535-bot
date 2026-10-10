@@ -3,7 +3,7 @@
 <rect width="1200" height="110" fill="url(#bg)"/><rect width="1200" height="110" fill="url(#grid)"/>
 <path d="M0 22H70L88 40H120M1200 24H1120L1102 42H1070" fill="none" stroke="#2dd4bf" stroke-opacity=".55"/>
 <rect x="0" y="0" width="5" height="110" fill="#0d9488"/>
-<text x="36" y="47" fill="#5eead4" font-family="monospace" font-size="12" letter-spacing="4">MUHAMMAD SANWAL / PORTFOLIO</text>
+<text x="36" y="47" fill="#5eead4" font-family="monospace" font-size="12" letter-spacing="4">MUHAMMAD SANWAL </text>
 <text x="34" y="82" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="1.8">SELECTED WORK</text>
 <text x="1160" y="82" text-anchor="end" fill="#a8bec7" font-family="monospace" font-size="12">Projects built around practical problems</text>
 <rect x="0" y="106" width="1200" height="4" fill="#0d9488"/>
