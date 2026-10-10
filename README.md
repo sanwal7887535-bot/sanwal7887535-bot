@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Muhammad Sanwal engineering portfolio"/>
+<img src="header.svg" width="100%" alt="Muhammad Sanwal engineering portfolio"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Software+Development;AI+Automation+and+Intelligent+Workflows;Odoo+Enterprise+and+ERP+Security;Building+practical+software+solutions" alt="Animated role descriptions"/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="assets/about.svg" width="100%" alt="Profile section"/>
+<img src="about.svg" width="100%" alt="Profile section"/>
 
 ## Software Developer | IT Student
 
@@ -52,7 +52,7 @@ I am interested in building useful software, integrating AI into practical workf
 
 ---
 
-<img src="assets/stack.svg" width="100%" alt="Technology stack section"/>
+<img src="stack.svg" width="100%" alt="Technology stack section"/>
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I am interested in building useful software, integrating AI into practical workf
 
 ---
 
-<img src="assets/projects.svg" width="100%" alt="Selected projects section"/>
+<img src="projects.svg" width="100%" alt="Selected projects section"/>
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ An AI-powered web application that provides structured first-aid guidance throug
 
 ---
 
-<img src="assets/focus.svg" width="100%" alt="Engineering focus section"/>
+<img src="focus.svg" width="100%" alt="Engineering focus section"/>
 
 <table>
 <tr>
@@ -229,7 +229,7 @@ DETECTION             ALERTING
 
 ---
 
-<img src="assets/stats.svg" width="100%" alt="GitHub analytics section"/>
+<img src="stats.svg" width="100%" alt="GitHub analytics section"/>
 
 <div align="center">
 
@@ -289,7 +289,7 @@ Software development, AI application, and enterprise security project work.
 
 ---
 
-<img src="assets/connect.svg" width="100%" alt="Connect section"/>
+<img src="connect.svg" width="100%" alt="Connect section"/>
 
 <div align="center">
 
@@ -302,6 +302,6 @@ I am interested in software development, AI automation, enterprise applications,
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Animated Build with Purpose footer"/>
+<img src="footer.svg" width="100%" alt="Animated Build with Purpose footer"/>
 
 </div>
