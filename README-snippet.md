@@ -1,1 +1,1 @@
-<img width="100%" src="assets/activity.svg" alt="Contribution activity graph"/>
+<img width="100%" src="activity.svg" alt="Contribution activity graph"/>
