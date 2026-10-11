@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "scripts/update_activity.py"
+      - "update_activity.py"
       - ".github/workflows/activity.yml"
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate activity graph
-        run: python scripts/update_activity.py
+        run: update_activity.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: sanwal7887535-bot
