@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Builds assets/activity.svg (animated contribution graph) from the GitHub GraphQL API.
+"""Builds activity.svg (animated contribution graph) from the GitHub GraphQL API.
 
 Run by .github/workflows/activity.yml. Without GITHUB_TOKEN it writes a styled
 placeholder so the README image never breaks.  `--sample PATH` writes a synthetic
