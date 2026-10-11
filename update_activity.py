@@ -156,10 +156,9 @@ def main():
     if token:
         try:
             data = fetch(token)
-        except Exception as e:  # keep the previous graph if the API hiccups
-            print("fetch failed:", e, file=sys.stderr)
-            if os.path.exists(OUT):
-                return
+        except Exception as e:  # fail loudly so the Actions run turns red with the reason
+            print(f"::error::Could not fetch contributions for '{USER}': {e}", file=sys.stderr)
+            sys.exit(1)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, "w", encoding="utf-8").write(render(data))
     print("activity.svg written (live data)" if data else "activity.svg written (placeholder)")
