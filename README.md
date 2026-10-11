@@ -58,7 +58,6 @@
 <br/><br/>
 
 <img width="100%" src="activity.svg" alt="Contribution activity graph"/>
-
 <img src="divider.svg" width="100%" alt=""/>
 
 <img src="banner-education.svg" width="100%" alt="Education and achievements"/>
