@@ -41,7 +41,7 @@
 <br/>
 <img src="focus-cards.svg" width="100%" alt="Software, AI and automation, enterprise, and security focus areas"/>
 <br/>
-<img src="pipeline.svg" width="100%" alt="Odoo to AegisERP sensor to Wazuh to detection, alerting and compliance evidence"/>
+<!-- <img src="pipeline.svg" width="100%" alt="Odoo to AegisERP sensor to Wazuh to detection, alerting and compliance evidence"/> -->
 
 <img src="divider.svg" width="100%" alt=""/>
 
