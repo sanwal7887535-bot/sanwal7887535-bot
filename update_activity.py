@@ -13,7 +13,7 @@ import urllib.request
 from datetime import date, timedelta
 
 USER = os.environ.get("GH_USER", "sanwal7887535-bot")
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT,"activity.svg")
 
 FONT = "'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
